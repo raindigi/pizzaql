@@ -45,7 +45,7 @@
         "react-stripe-checkout": "^2.6.3",
         "react-use-form-state": "^0.12.1",
         "styled-components": "^5.0.0",
-        "yup": "^0.28.0"
+        "yup": "^0.30.0"
     },
     "xo": {
         "nodeVersion": ">=10",
